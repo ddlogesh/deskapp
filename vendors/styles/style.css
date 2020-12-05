@@ -1948,7 +1948,7 @@ table.dataTable.dtr-inline.collapsed > tbody > tr.parent > td:first-child:before
 
 .sidebar-light .sidebar-menu .dropdown-toggle:hover, .sidebar-light .sidebar-menu .show > .dropdown-toggle, .sidebar-light .sidebar-menu .submenu li a.active, .sidebar-light .sidebar-menu .submenu li a:hover {
     color: #fff;
-    background-color: #0b132b
+    background-color: #FF4141
 }
 
 .sidebar-light .menu-block .mCS-dark-2.mCSB_scrollTools .mCSB_draggerRail {
