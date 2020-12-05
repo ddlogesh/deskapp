@@ -1975,7 +1975,7 @@ table.dataTable.dtr-inline.collapsed > tbody > tr.parent > td:first-child:before
 }
 
 .sidebar-light .sidebar-menu .sidebar-small-cap {
-    color: #1502bd
+    color: #E60000
 }
 
 .login-header {
@@ -2059,8 +2059,8 @@ body.IE .login-wrap .container, body.IE .register-page-wrap .container {
 }
 
 .select-role .btn-group .btn.active, .select-role .btn-group .btn.active:focus, .select-role .btn-group .btn.focus.active {
-    background-color: rgba(27, 0, 255, .05);
-    border-color: rgba(27, 0, 255, .5);
+    background-color: rgba(255, 65, 65, .05);
+    border-color: rgba(255, 65, 65, .5);
     color: #FF4141
 }
 
