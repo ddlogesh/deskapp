@@ -1573,7 +1573,7 @@ table.dataTable.dtr-inline.collapsed > tbody > tr.parent > td:first-child:before
 }
 
 .header-dark .header, .header-dark .header-left .header-search {
-    background: #0b132b
+    background: #B80000
 }
 
 .header-dark .header .user-info-dropdown .dropdown-toggle, .header-dark .header .user-info-dropdown .dropdown-toggle .user-name, .header-dark .menu-icon, .header-dark .search-toggle-icon, .header-dark .user-notification .dropdown-toggle {
@@ -1694,7 +1694,7 @@ table.dataTable.dtr-inline.collapsed > tbody > tr.parent > td:first-child:before
     width: 280px;
     height: 100vh;
     z-index: 1000;
-    background: #0b132b
+    background: #CF0000
 }
 
 .left-side-bar .mCS-dark-2.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
